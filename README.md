@@ -120,4 +120,4 @@ Python-PhilSys-Packet-Backup/
 
 ## License
 
-Not specified.
+Apache License 2.0
